@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Spectral";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    local("Spectral"),
+    url("../fonts/spectral_bold.woff2") format("woff2"),
+    url("../fonts/spectral_bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TTNorms";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    local("TTNorms"),
+    url("../fonts/ttnorms_bold.woff2") format("woff2"),
+    url("../fonts/ttnorms_bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TTNorms";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src:
+    local("TTNorms"),
+    url("../fonts/ttnorms_regular.woff2") format("woff2"),
+    url("../fonts/ttnorms_regular.woff") format("woff");
+}
